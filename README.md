@@ -1,7 +1,7 @@
 # CMDBackDoor
 hi..
-This is for executing DOS commands remotely on Windows
-This program written in Vb6 language without any OCX .
+This program for executing DOS commands remotely on Windows
+This is written in Vb6 language without any OCX .
 tested on WinServer 2019 and Win10 and It works properly 
 It has two parts, client and server
 

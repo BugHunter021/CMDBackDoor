@@ -1,16 +1,16 @@
 # CMDBackDoor
 hi..
-This program for executing DOS commands remotely on Windows
-This is written in Vb6 language without any OCX .
-tested on WinServer 2019 and Win10 and It works properly 
-It has two parts, client and server
+This program for executing DOS commands remotely on Windows.
+This is written in Vb6 without any OCX .
+tested on WinServer 2019 and Win10 and It works properly .
+It has two parts, client and server.
 
 .:. Server:
-server must be running on the system from which we want to control the victim system 
-All you have to do on the server is enter the free port number(not used by Other Program) and click on listen button 
+server must be running on the system from which we want to control the victim system .
+All you have to do on the server is enter the free port number(not used by Other Program) and click on listen button .
 
 .:. Client:
-This file must be executed on the victim system where we want execute the DOS commands 
+This file must be executed on the victim system where we want execute the DOS commands .
 
 After the first run, it asks you for parameters :
 Name : <Name show in Server File>

@@ -3,17 +3,10 @@ This program for executing `DOS commands` remotely on Windows.
 
 # About Program
 
+```bash
 This is written in `Vb6 without any OCX`.
 tested on `Win Server 2019 and Win10` and It works properly.
 It has two parts, client and server.
-
-```bash
-  git clone https://github.com/jadijadi/bestoon && cd bestoon
-  virtualenv -p python2 build  # Create virtualenv named build
-  source build/bin/activate
-  pip install -r requirements.txt
-  mv  bestoon/settings.py.sample bestoon/settings.py
-  python manage.py migrate  # Create database tables
   ```
   
 # How to use

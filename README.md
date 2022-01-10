@@ -21,9 +21,10 @@ ServerPort: <The port number we entered on the server >
 After this, the program closes and you have to run the client again. But this time it does not ask for the parameters and Running Hiden. 
 
 ## Result
-After executing both programs and entered the correct parameters,
+```bash
+	After executing both programs and entered the correct parameters,
 	the client-server connection is established and you can execute
 	the commands on the client and see the result on the server by 
 	writing and send DOS commands on the server. 
-	
+	```
 TelegramID : @mrbugbounty	

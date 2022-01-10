@@ -3,11 +3,10 @@ This program for executing `DOS commands` remotely on Windows.
 
 # About Program
 
-```bash
-This is written in `Vb6 without any OCX`.
-tested on `Win Server 2019 and Win10` and It works properly.
-It has two parts, client and server.
-  ```
+a. This is written in `Vb6 without any OCX`.
+b. tested on `Win Server 2019 and Win10` and It works properly.
+c. It has two parts, client and server.
+
   
 # How to use
 ## Server:

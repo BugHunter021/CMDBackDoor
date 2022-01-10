@@ -1,13 +1,14 @@
 Type=Exe
 Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\SysWOW64\stdole2.tlb#OLE Automation
 Form=ServerFRM.frm
-Class=CSocketMaster; ..\csocketmaster\CSocketMaster.cls
-Module=modSocketMaster; ..\csocketmaster\modSocketMaster.bas
+Class=CSocketMaster; CSocketMaster.cls
+Module=modSocketMaster; modSocketMaster.bas
 IconForm="ServerFRM"
 Startup="ServerFRM"
 HelpFile=""
 Title="CMDBackDoor"
 ExeName32="ServerBackDoor v1.0.exe"
+Path32="Build Exe"
 Command32=""
 Name="CMDBackDoorServer"
 HelpContextID="0"

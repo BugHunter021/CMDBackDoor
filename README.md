@@ -1,11 +1,12 @@
 # CMDBackDoor
-hi..
-# About
+
+# About Program
 This program for executing DOS commands remotely on Windows.
 This is written in Vb6 without any OCX .
 tested on WinServer 2019 and Win10 and It works properly .
 It has two parts, client and server.
 
+# How to use
 ## Server:
 server must be running on the system from which we want to control the victim system .
 All you have to do on the server is enter the free port number(not used by Other Program) and click on listen button .

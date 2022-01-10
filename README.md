@@ -3,9 +3,10 @@ This program for executing `DOS commands` remotely on Windows.
 
 # About Program
 
-1. This is written in `Vb6 without any OCX`.
-2. tested on `Win Server 2019 and Win10` and It works properly.
-c. It has two parts, client and server.
+This is written in `Vb6 without any OCX`.
+tested on `Win Server 2019 and Win10` and It works properly.
+It has two parts, client and server.
+
 
   
 # How to use

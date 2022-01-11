@@ -30,5 +30,5 @@ After this, the program closes and you have to run the client again. But this ti
 	the commands on the client and see the result on the server by 
 	writing and send DOS commands on the server. 
 ```
-# Connect with me:
+<h3 align="left">Connect with me:</h3>
 TelegramID : [@mrbugbounty](https://t.me/mrbugbounty)

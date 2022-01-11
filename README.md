@@ -10,11 +10,11 @@ It has two parts, client and server.
 
   
 # How to use
-## Server:
+## 1. Server:
 server must be running on the system from which we want to control the victim system .
 All you have to do on the server is enter the free port number(not used by Other Program) and click on listen button .
 
-## Client:
+## 2. Client:
 This file must be executed on the victim system where we want execute the DOS commands .
 
 After the first run, it asks you for parameters :

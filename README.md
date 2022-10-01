@@ -30,12 +30,4 @@ After this, the program closes and you have to run the client again. But this ti
 	the commands on the client and see the result on the server by 
 	writing and send DOS commands on the server. 
 ```
-<h3 align="left">Connect with me:</h3>
-	
-TelegramID : [@mrbugbounty](https://t.me/mrbugbounty)
 
-<a href="http://www.coffeete.ir/BugHunter"><img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" /></a>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://codestats.net/assets/frontend/images/vb6icon_cropped_transparent-a2886d663c52b8fef0f097b930615d62.webp?vsn=d" alt="php" width="40" height="40"/> </a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbugbountyCMDBackDoor&label=Profile%20views&color=0e75b6&style=flat" alt="mrbugbountyCMDBackDoor" /> </p>
